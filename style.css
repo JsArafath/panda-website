@@ -1,0 +1,34 @@
+.backcolor-section {
+    background: #feeae9;
+}
+
+.price-color {
+    color: #ff136f;
+}
+
+.btn {
+    background: #f21f70;
+}
+
+/*--------Catagories---------*/
+.catagories-level {
+    width: 100px;
+}
+
+.panda-catagory-color-1 {
+    background-color: rgb(255, 153, 44);
+}
+
+.panda-catagory-color-2 {
+    background-color: rgb(238, 57, 130);
+}
+
+.panda-catagory-color-3 {
+    background-color: rgb(38, 94, 186);
+}
+
+/*-------Card--------*/
+.tall {
+    height: 300px;
+    padding-top: 80px;
+}
